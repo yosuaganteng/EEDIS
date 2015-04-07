@@ -27,9 +27,6 @@
         <a class="active item">
             <i class="mail icon"></i> Compose
         </a>
-        <a class="item" href="daftarUser.jsp">
-            <i class="user icon"></i> Manual
-        </a>
 
         <div class="right menu">
             <div class="item">

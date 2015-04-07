@@ -8,17 +8,8 @@
     <link href="css/search.min.css" rel="stylesheet" type="text/css"/>
     <link href="css/statistic.min.css" rel="stylesheet" type="text/css"/>
     <div class="ui secondary pointing menu" name="up">
-        <a class="active item">
-            <i class="home icon"></i> Home
-        </a>
-        <a class="item" href="inbox.jsp">
-            <i class="mail icon"></i> Inbox
-        </a>
-        <a class="item" href="compose.jsp">
-            <i class="mail icon"></i> Compose
-        </a>
-        <a class="item" >
-            <i class="user icon"></i> Manual
+        <a class="item">
+            
         </a>
 
         <div class="right menu">
@@ -28,8 +19,8 @@
                     <i class="search link icon"></i>
                 </div>
             </div>
-            <a class="ui item">
-                Logout
+            <a class="ui item" href="login.jsp">
+                Login or Register
             </a>
         </div>
     </div>
